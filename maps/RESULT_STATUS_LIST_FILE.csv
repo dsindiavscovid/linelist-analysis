@@ -1,0 +1,56 @@
+Value,Canonical,
+? negative (orally),Negative,
+? positive,Positive,
+?negative,Negative,
+(outside),,Check
+`positive,Positive,
+a,Awaited,
+awaited,Awaited,
+awaiting,Awaited,
+awating,Awaited,
+inconclusive,Inconclusive,
+incorrect,,Check
+intermediate,,Check
+missing,,Check
+n,Negative,
+nagetive,Negative,
+neagtive,Negative,
+negative,Negative,
+negative ?,Negative,
+negatve,Negative,
+NEGITIVE,Negative,
+NEGIVITVE,Negative,
+negivitve,Negative,
+"not
+ mentioned",NA,Check
+not come,,Pending
+not done,,Blank
+not known,NA,Check
+not mentioned,NA,Check
+not mentoned,NA,Check
+p,Positive,
+p0sitive,Positive,
+pending,,Pending
+po,Positive,
+politive,Positive,
+positiive,Positive,
+positive,Positive,
+"positive
+ (outside)",Positive,
+"positive
+ (outside)
+ positive",Positive,
+positve,Positive,
+possitive,Positive,
+postive,Positive,
+reject,,Check
+repeat,,Check
+report awaited,Awaited,
+report awaiting,Awaited,
+result in waiting,Awaited,
+suspected,,Check
+test pending,,Pending
+"verbally
+ confirm
+ positive",Positive,
+negitive,Negative,

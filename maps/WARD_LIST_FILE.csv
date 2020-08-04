@@ -1,0 +1,135 @@
+Value,Canonical
+a,A
+a ward,A
+a-ward,A
+b,B
+b ward,B
+b-ward,B
+c,C
+c ward,C
+c wardd,C
+c-ward,C
+d,D
+d ward,D
+d-ward,D
+dist -palghar,Out of Mumbai
+e,E
+e ward,E
+e-ward,E
+f north,F North
+f south,F South
+f-north,F North
+f-south,F South
+f/n,F North
+f/n ward,F North
+f/north,F North
+f/s,F South
+f/s ward,F South
+f/south,F South
+fn,F North
+fs,F South
+g - north ward,G North
+g north,G North
+g noth,G North
+g south,G South
+g-north,G North
+g-south,G South
+g/n,G North
+g/n ward,G North
+g/n ward staff,G North
+g/north,G North
+g/s,G South
+g/s ward,G South
+g/south,G South
+gn,G North
+gs,G South
+gsouth,G South
+h east,H East
+h west,H West
+h-east,H East
+h-west,H West
+h/east,H East
+h/east ward,H East
+h/west,H West
+heast,H East
+k east,K East
+k west,K West
+k-east,K East
+k-west,K West
+k-west ward,K West
+k/e,K East
+"k/e
+",K East
+k/east,K East
+k/east ward,K East
+k/w,K West
+k/west,K West
+kalyan,Out of Mumbai
+ke,K East
+kem,K East
+kurla l ward,L
+kurla west,L
+kw,K West
+l,L
+l ward,L
+l ward (nirmal hospital),L
+l ward- moh,L
+"l ward, kurla",L
+l ward/ kohinoor hospital,L
+l-ward,L
+lward,L
+m east,M East
+m west,M West
+m-east,M East
+m-west,M West
+m/e,M East
+m/e ward,M East
+m/east,M East
+m/w ward,M West
+m/west,M West
+mcgm f/north,F North
+me,M East
+meast,M East
+mw,M West
+n,N
+n ward,N
+n-ward,N
+navi mumbai,Out of Mumbai
+outside,Out of Mumbai
+p north,P North
+p south,P South
+p-north,P North
+p-south,P South
+p/north,P North
+p/s,P South
+p/south,P South
+pn,P North
+pn ward,P North
+pnward,P North
+r central,R Central
+r north,R North
+r south,R South
+"r-central ward office, bo (w)",R Central
+r-north,R North
+r-south,R South
+r/ central,R Central
+r/ south,R South
+r/central,R Central
+r/north,R North
+r/north ward,R North
+r/south,R South
+raigad,Out of Mumbai
+s,S
+s ward,S
+s-ward,S
+t,T
+t ward,T
+t-ward,T
+thane,Out of Mumbai
+thane district,Out of Mumbai
+vasai,Out of Mumbai
+virar,Out of Mumbai
+ward-d,D
+male ward,NA
+female ward,NA
+other,Out of Mumbai
